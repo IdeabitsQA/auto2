@@ -50,9 +50,9 @@ Mobile.tap(findTestObject('Object Repository/Growloop/android.widget.TextView - 
 
 Mobile.tap(findTestObject('Object Repository/Growloop/com.horcrux.svg.PathView (7)'), 0)
 
-Mobile.verifyElementText(findTestObject('Object Repository/Growloop/android.widget.TextView - Test Reflection 1'), 'Test Reflection 1')
+Mobile.verifyElementText(findTestObject('Object Repository/Growloop/android.widget.TextView - Test Reflection 1 (1)'), 'Test Reflection 1')
 
-Mobile.verifyElementText(findTestObject('Object Repository/Growloop/android.widget.TextView - Blessing (1)'), 'Blessing')
+Mobile.verifyElementText(findTestObject('Object Repository/Growloop/android.widget.TextView - Blessing (3)'), 'Blessing')
 
 Mobile.closeApplication()
 

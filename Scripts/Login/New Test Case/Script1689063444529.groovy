@@ -17,3 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.closeBrowser()
+
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://qa.d342xyvxhwp6md.amplifyapp.com/tracks')
+
+WebUI.setText(findTestObject('Object Repository/Growloop/Web/Page_Growloop Admin/input_Email_email'), 'Sadhani@ideabits.se')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Growloop/Web/Page_Growloop Admin/input_Password_password'), 'XcFPsDO0vTLaOsKuujqZ4A==')
+
+WebUI.click(findTestObject('Object Repository/Growloop/Web/Page_Growloop Admin/img'))
+
+WebUI.setText(findTestObject('Object Repository/Growloop/Web/Page_Growloop Admin/input_Password_password_1'), 'Admin@123')
+
+WebUI.click(findTestObject('Object Repository/Growloop/Web/Page_Growloop Admin/button_Login'))
+
