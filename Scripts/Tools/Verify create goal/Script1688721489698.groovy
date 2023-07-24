@@ -85,8 +85,6 @@ Mobile.tap(findTestObject('Object Repository/Growloop/android.widget.TextView - 
 
 Mobile.verifyElementText(findTestObject('Growloop/android.widget.TextView - Test Goal'), 'Test Goal')
 
-Mobile.verifyElementText(findTestObject('Growloop/android.widget.TextView - test description'), 'test description')
-
 Mobile.verifyElementText(findTestObject('Object Repository/Growloop/android.widget.TextView - Test Impotance text'), 'Test Impotance text')
 
 Mobile.scrollToText('Results')

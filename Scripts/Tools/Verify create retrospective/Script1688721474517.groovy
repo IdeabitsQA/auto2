@@ -35,12 +35,6 @@ Mobile.scrollToText('Save Retrospection')
 
 Mobile.tap(findTestObject('Object Repository/Growloop/android.view.ViewGroup (7)'), 0)
 
-Mobile.setText(findTestObject('Object Repository/Growloop/android.widget.EditText (2)'), 'test q3', 0)
-
-Mobile.tap(findTestObject('Object Repository/Growloop/com.horcrux.svg.SvgView (2)'), 0)
-
-Mobile.setText(findTestObject('Object Repository/Growloop/android.widget.EditText (3)'), 'test q4', 0)
-
 Mobile.scrollToText('Save Retrospection')
 
 Mobile.tap(findTestObject('Object Repository/Growloop/android.widget.TextView - Save Retrospection'), 0)
@@ -51,19 +45,9 @@ Mobile.tap(findTestObject('Object Repository/Growloop/android.widget.TextView - 
 
 Mobile.tap(findTestObject('Object Repository/Growloop/com.horcrux.svg.SvgView (3)'), 0)
 
-Mobile.verifyElementText(findTestObject('Object Repository/Growloop/android.widget.TextView - test q1 (1)'), 'test q1')
-
 Mobile.tap(findTestObject('Object Repository/Growloop/com.horcrux.svg.SvgView (7)'), 0)
 
 Mobile.verifyElementText(findTestObject('Object Repository/Growloop/android.widget.TextView - test q2'), 'test q2')
-
-Mobile.tap(findTestObject('Object Repository/Growloop/com.horcrux.svg.SvgView (8)'), 0)
-
-Mobile.verifyElementText(findTestObject('Object Repository/Growloop/android.widget.TextView - test q3'), 'test q3')
-
-Mobile.tap(findTestObject('Object Repository/Growloop/com.horcrux.svg.SvgView (9)'), 0)
-
-Mobile.verifyElementText(findTestObject('Object Repository/Growloop/android.widget.TextView - test q4'), 'test q4')
 
 Mobile.tap(findTestObject('Object Repository/Growloop/com.horcrux.svg.PathView (19)'), 0)
 

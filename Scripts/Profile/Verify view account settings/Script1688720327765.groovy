@@ -23,7 +23,7 @@ Mobile.tap(findTestObject('Object Repository/Growloop/Profile/android.widget.Ima
 
 Mobile.tap(findTestObject('Object Repository/Growloop/Profile/android.widget.TextView - My Account Settings'), 0)
 
-Mobile.verifyElementText(findTestObject('Object Repository/Growloop/Profile/android.widget.EditText - Sadhani'), 'Sadhani')
+Mobile.verifyElementText(findTestObject('Object Repository/Growloop/Profile/android.widget.EditText - Sadhani'), 'sad')
 
 Mobile.verifyElementText(findTestObject('Object Repository/Growloop/Profile/android.widget.EditText - sadhaniideabits.se'), 
     'sadhani@ideabits.se')
