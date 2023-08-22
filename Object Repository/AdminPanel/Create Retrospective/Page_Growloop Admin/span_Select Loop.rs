@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Loop</name>
+   <tag></tag>
+   <elementGuidId>223cba25-53be-435f-a513-28f240bc602f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/section/main/div/div/div/div/div/div[2]/div[2]/form/div[3]/div/div[2]/div/div/div/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.ant-select-in-form-item.ant-select-single.ant-select-show-arrow.ant-select-open > div.ant-select-selector > span.ant-select-selection-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7bc76557-0adb-414d-a6f5-198b89e1e6d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>9480c419-cc9d-4696-967e-575c52a03a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select Loop</value>
+      <webElementGuid>e87ca935-d2fc-47e3-9352-16a4d8244246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Loop</value>
+      <webElementGuid>1553d9a3-8aaa-4dfd-b697-811291b637a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;body-container-tracks col-lg-8 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-md-9&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;track-container&quot;]/div[@class=&quot;track-container-form&quot;]/div[@class=&quot;track-container-form-wrapper&quot;]/form[@class=&quot;ant-form ant-form-vertical&quot;]/div[@class=&quot;ant-form-item&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-select ant-select-in-form-item ant-select-single ant-select-show-arrow ant-select-open&quot;]/div[@class=&quot;ant-select-selector&quot;]/span[@class=&quot;ant-select-selection-item&quot;]</value>
+      <webElementGuid>4a8c56ae-c40e-4e06-b018-f52927c786a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>50588c28-4c7b-41f1-a290-a7df28fda26a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selection-item</value>
+      <webElementGuid>f0030660-27f6-42f7-8e08-c2e7a19e9841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select Loop</value>
+      <webElementGuid>bf33a003-4b07-4944-a50a-c1fb685e69ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Loop</value>
+      <webElementGuid>24e8b1ef-ac1d-42b8-8d88-a2939efc7a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;body-container-tracks col-lg-8 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-md-9&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;track-container&quot;]/div[@class=&quot;track-container-form&quot;]/div[@class=&quot;track-container-form-wrapper&quot;]/form[@class=&quot;ant-form ant-form-vertical&quot;]/div[@class=&quot;ant-form-item&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-select ant-select-in-form-item ant-select-single ant-select-show-arrow ant-select-open&quot;]/div[@class=&quot;ant-select-selector&quot;]/span[@class=&quot;ant-select-selection-item&quot;]</value>
+      <webElementGuid>5df8475d-1fe0-41b8-8761-fb79af20ddff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/section/main/div/div/div/div/div/div[2]/div[2]/form/div[3]/div/div[2]/div/div/div/div/span[2]</value>
+      <webElementGuid>de38e01d-d8f3-419f-8f6b-14663eb29097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Loop'])[1]/following::span[2]</value>
+      <webElementGuid>c69febab-6121-44f9-ba51-6def20835896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Cover Image'])[1]/following::span[4]</value>
+      <webElementGuid>daf8895c-7d20-40b1-8887-9e777a3d0be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Question 1'])[1]/preceding::span[3]</value>
+      <webElementGuid>5c8545da-3fd0-4080-a48a-618f67cbfc93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::span[3]</value>
+      <webElementGuid>aa970c91-4471-432d-8610-d8ef505e7a7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/div/span[2]</value>
+      <webElementGuid>8ef78180-4b73-47c3-83f6-ae8fdd039a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Select Loop' and (text() = 'Select Loop' or . = 'Select Loop')]</value>
+      <webElementGuid>a723c6b6-90b3-459f-8bcd-9b3279b6c629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RetroCoverImage.png'])[1]/following::span[4]</value>
+      <webElementGuid>dd69dfed-53e4-4fca-b538-b454321e7ae9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

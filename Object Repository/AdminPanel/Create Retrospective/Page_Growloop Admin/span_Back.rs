@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Back</name>
+   <tag></tag>
+   <elementGuidId>4a1db84c-44bd-4897-b50e-437f79d02042</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/section/main/div/div/div/div/div/div[2]/div[2]/form/div[12]/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-primary.assignment-btn.white-btn > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fcb4407c-eced-44f1-b174-b5dc54d3a2ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Back</value>
+      <webElementGuid>997f2331-54bc-42c1-9764-bf5bce0568da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;body-container-tracks col-lg-8 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-md-9&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;track-container&quot;]/div[@class=&quot;track-container-form&quot;]/div[@class=&quot;track-container-form-wrapper&quot;]/form[@class=&quot;ant-form ant-form-vertical&quot;]/div[@class=&quot;form-footer&quot;]/div[@class=&quot;right&quot;]/button[@class=&quot;ant-btn ant-btn-primary assignment-btn white-btn&quot;]/span[1]</value>
+      <webElementGuid>8049e0b3-bbc8-4222-9eca-6c59c6c8a5d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/section/main/div/div/div/div/div/div[2]/div[2]/form/div[12]/div[2]/button/span</value>
+      <webElementGuid>883f9095-d53c-40a8-9ce0-d27d2b49ad42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[2]/following::span[2]</value>
+      <webElementGuid>fc05a20b-59f1-44e1-bdd8-73a80f6822a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please add the number of times for the reminder'])[1]/following::span[2]</value>
+      <webElementGuid>c2fb6125-8053-4202-9450-82aa06930474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::span[1]</value>
+      <webElementGuid>4948cad2-acc5-4e7a-bfe6-53ff590e5680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Back']/parent::*</value>
+      <webElementGuid>b6802cab-01a3-4596-904f-38c106ddc9f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>6f834587-5509-4ced-9991-fa70393a5d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Back' or . = 'Back')]</value>
+      <webElementGuid>b6c27002-2d88-46a2-ae8a-05aa712cf14a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

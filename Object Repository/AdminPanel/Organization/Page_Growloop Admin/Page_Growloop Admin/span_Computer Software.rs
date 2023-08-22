@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Computer Software</name>
+   <tag></tag>
+   <elementGuidId>edc19d37-8526-4c4f-9d27-bb7c051a3ff0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/section/main/div/div/div/div/div/div/div[2]/div[3]/div/div[3]/span[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5c8dc1c3-971a-482b-803f-6d724f7c41ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>d5111bcc-86d8-43ed-84ac-55222782f999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f9a30486-3dc6-4ebc-8068-a7cb13841a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Computer Software</value>
+      <webElementGuid>16480ecf-6b6a-45cb-9b5d-8bac4c1c9a6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>9c110868-c1ce-4e6a-b004-624d46122e31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-dropdown-select-item    css-nfp1ut evc32pp0</value>
+      <webElementGuid>1718254c-37b5-4fb6-b61c-3c0fe27a932d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#0074D9</value>
+      <webElementGuid>6087da09-eb98-44b7-8fdb-3a1a03f361bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Computer Software </value>
+      <webElementGuid>3d089652-2298-4a93-a042-da699332f64e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;body-container-tracks col-lg-8 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-md-9&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;track-container&quot;]/div[@class=&quot;track-container-form&quot;]/div[@class=&quot;track-container-form-wrapper&quot;]/div[3]/div[@class=&quot;react-dropdown-select undefined css-16vukcu e1gzf2xs0&quot;]/div[@class=&quot;react-dropdown-select-dropdown react-dropdown-select-dropdown-position-bottom css-f8pvf8 e1qjn9k91&quot;]/span[@class=&quot;react-dropdown-select-item    css-nfp1ut evc32pp0&quot;]</value>
+      <webElementGuid>39e71427-84fe-4078-a4ed-faad7431e3bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/section/main/div/div/div/div/div/div/div[2]/div[3]/div/div[3]/span[8]</value>
+      <webElementGuid>a2dd198f-c433-47ac-8c04-5cf4bc5afecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accounting'])[1]/following::span[1]</value>
+      <webElementGuid>b0b48107-ce74-41b4-80e0-132fe07e3c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Financial Services'])[1]/following::span[2]</value>
+      <webElementGuid>6352085c-a2e4-483f-865f-0835ea966b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Higher Education'])[1]/preceding::span[1]</value>
+      <webElementGuid>8afd1c0c-7ba7-44f9-8f44-2804e402a09d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automotive'])[1]/preceding::span[2]</value>
+      <webElementGuid>b058ce41-ca7d-4f2f-bede-47c3eb498786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Computer Software']/parent::*</value>
+      <webElementGuid>4abb4c29-d41b-456e-9723-e63929db18f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[8]</value>
+      <webElementGuid>152a3109-15b0-4c37-b261-efe17665b7d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Computer Software ' or . = 'Computer Software ')]</value>
+      <webElementGuid>7a7609e3-011b-4206-9c63-a3d7620deb61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

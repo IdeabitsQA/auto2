@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_REGISTRATION DATE</name>
+   <tag></tag>
+   <elementGuidId>9d14030c-dfd5-45db-8c9f-1500b9fe529b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-table-column-sorters.ant-tooltip-open</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/section/main/div[2]/div/div/div/div/div/div/table/thead/tr/th[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>52a390e9-2a84-4094-8d1a-fe6b55bbf4f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-table-column-sorters ant-tooltip-open</value>
+      <webElementGuid>2d873d61-28eb-4a8d-8cbf-fe8bf7a216f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REGISTRATION DATE</value>
+      <webElementGuid>7fb019ac-5c8d-4379-89a4-c3ffa4a87019</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;table-wrapper organization-list&quot;]/div[@class=&quot;ant-table-wrapper&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table ant-table-scroll-horizontal&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/thead[@class=&quot;ant-table-thead&quot;]/tr[1]/th[@class=&quot;ant-table-cell ant-table-column-sort ant-table-column-has-sorters&quot;]/div[@class=&quot;ant-table-column-sorters ant-tooltip-open&quot;]</value>
+      <webElementGuid>8eb402c1-a086-436e-8bb5-9177ba1a5b4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/section/main/div[2]/div/div/div/div/div/div/table/thead/tr/th[4]/div</value>
+      <webElementGuid>96aa1eda-17a4-411d-9533-c414c60d5b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIVE USERS'])[1]/following::div[1]</value>
+      <webElementGuid>5f6fcc0f-55fd-42e7-9f33-d740aff4bb22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INDUSTRY'])[1]/following::div[1]</value>
+      <webElementGuid>04e9e595-101b-428e-ae10-48a772e70146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDIT'])[1]/preceding::div[1]</value>
+      <webElementGuid>43df048c-bc9e-4f1a-8b06-a5a1267f4ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[4]/div</value>
+      <webElementGuid>b69b2526-6de5-44a7-a319-694c913b069f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'REGISTRATION DATE' or . = 'REGISTRATION DATE')]</value>
+      <webElementGuid>eab84550-279e-4756-9af7-d12d60b56636</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

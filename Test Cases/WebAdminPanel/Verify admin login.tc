@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify admin login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae0bbb57-1d86-4c28-aa80-318e649e35c1</testCaseGuid>
+</TestCaseEntity>

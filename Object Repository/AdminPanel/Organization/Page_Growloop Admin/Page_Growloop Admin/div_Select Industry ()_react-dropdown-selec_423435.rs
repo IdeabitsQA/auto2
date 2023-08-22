@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Industry ()_react-dropdown-selec_423435</name>
+   <tag></tag>
+   <elementGuidId>7c4f6250-b32a-49c7-bf9a-20b0cfc780b2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.react-dropdown-select-content.react-dropdown-select-type-single.css-1m5113o.e1gn6jc30</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/section/main/div/div/div/div/div/div/div[2]/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ecc1323a-62ee-4a64-8e83-56b01c47e07c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>react-dropdown-select-content react-dropdown-select-type-single css-1m5113o e1gn6jc30</value>
+      <webElementGuid>7b3de1cc-23aa-4747-9025-a56abdd0eabf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;body-container-tracks col-lg-8 col-md-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-md-9&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;track-container&quot;]/div[@class=&quot;track-container-form&quot;]/div[@class=&quot;track-container-form-wrapper&quot;]/div[3]/div[@class=&quot;react-dropdown-select undefined css-16vukcu e1gzf2xs0&quot;]/div[@class=&quot;react-dropdown-select-content react-dropdown-select-type-single css-1m5113o e1gn6jc30&quot;]</value>
+      <webElementGuid>4fbc1658-34af-45a3-a0b5-589a97607157</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/section/main/div/div/div/div/div/div/div[2]/div[3]/div/div</value>
+      <webElementGuid>31f7162c-f4a2-45d2-b81a-78741b6eb8af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Industry (*)'])[1]/following::div[3]</value>
+      <webElementGuid>9f8238a6-6611-40da-84af-fd418278ed26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization website (Optional)'])[1]/following::div[3]</value>
+      <webElementGuid>1ccc4307-53a8-4a7b-aa51-b492f7ed0b8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload image (*)'])[1]/preceding::div[2]</value>
+      <webElementGuid>7a7a1ffc-3045-4618-8cb7-430115d76b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose file'])[1]/preceding::div[2]</value>
+      <webElementGuid>c3e6a449-960d-4d5b-9f4b-7bf19d0836a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>0e45ad5d-15f5-4d14-9617-ac8b2b09bd26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

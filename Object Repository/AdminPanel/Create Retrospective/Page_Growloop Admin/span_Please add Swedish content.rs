@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Please add Swedish content</name>
+   <tag></tag>
+   <elementGuidId>21be87d3-508c-4bfc-a142-63b9eadbe1d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/section/main/div/div[3]/div/table/tbody/tr/td/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.name-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3bbf4265-45dd-4799-9454-bdddccda9489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>name-text</value>
+      <webElementGuid>e9f007ce-6497-4562-a978-9e6ae881c8b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please add Swedish content</value>
+      <webElementGuid>8ccae764-68f4-4486-a6a1-1f9e48277940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;body-container col-lg-10 col-md-10 col-sm-7&quot;]/div[@class=&quot;table-wrapper retrospective-table&quot;]/div[1]/table[@class=&quot;table table-sm table-striped table-bordered table-hover&quot;]/tbody[1]/tr[1]/td[@class=&quot;name greyOut&quot;]/span[@class=&quot;name-text&quot;]</value>
+      <webElementGuid>1b26fbc5-daee-4e8e-9373-36ead761b7b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/section/main/div/div[3]/div/table/tbody/tr/td/span[2]</value>
+      <webElementGuid>aa3b919e-4033-4e91-90c9-891c9b16dae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swedish'])[1]/following::span[4]</value>
+      <webElementGuid>31eb54c6-12de-4b84-9d4d-f66fbf1250e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Retrospective'])[1]/following::span[6]</value>
+      <webElementGuid>dbf784e8-ee24-463e-b4be-1c56fc46c9d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='org'])[1]/preceding::span[1]</value>
+      <webElementGuid>fba2c6ae-80fe-4c3e-a6be-d36c64254974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EVERY-DAY'])[1]/preceding::span[3]</value>
+      <webElementGuid>81c138e3-aff8-4110-b90f-2cf9923fd7a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please add Swedish content']/parent::*</value>
+      <webElementGuid>5a3368be-7ea8-4e5c-8ca9-c0c159b48aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/span[2]</value>
+      <webElementGuid>d36f6e3e-249b-4980-b87d-ca9f955f3bdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Please add Swedish content' or . = 'Please add Swedish content')]</value>
+      <webElementGuid>014abbdf-e0ce-40b8-be49-97580cc672bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

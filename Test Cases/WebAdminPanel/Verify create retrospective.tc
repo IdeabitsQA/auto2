@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify create retrospective</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7b3a6aa-ebb2-453a-81b3-97797ed0df45</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>520f294d-4e14-45b5-9eb2-78599f0ffce3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'/Users/antonthushara/Downloads/RetroCoverImage.png'</defaultValue>
+      <description></description>
+      <id>520f294d-4e14-45b5-9eb2-78599f0ffce3</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

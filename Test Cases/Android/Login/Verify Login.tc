@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>87ed332a-12d0-47b3-8827-66e2be971d4c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eb8225d8-9647-4abc-a5d7-0cd2afca5d54</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>df67c060-24e2-4b4f-b701-9b0349902270</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sadhani@ideabits.se'</defaultValue>
+      <description></description>
+      <id>eb8225d8-9647-4abc-a5d7-0cd2afca5d54</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Admin@123'</defaultValue>
+      <description></description>
+      <id>df67c060-24e2-4b4f-b701-9b0349902270</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

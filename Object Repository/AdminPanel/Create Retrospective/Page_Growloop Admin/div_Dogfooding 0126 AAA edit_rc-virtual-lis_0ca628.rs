@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Dogfooding 0126 AAA edit_rc-virtual-lis_0ca628</name>
+   <tag></tag>
+   <elementGuidId>3d3dce24-1bab-4b8d-8f40-ac3a963de0f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[4]/div/div/div/div[2]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.rc-virtual-list-scrollbar.rc-virtual-list-scrollbar-show > div.rc-virtual-list-scrollbar-thumb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>163db404-2a58-484e-aef1-c2a4a1fd830c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rc-virtual-list-scrollbar-thumb</value>
+      <webElementGuid>a3e3d438-5a3f-4f38-9075-707dc31dfafc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[1]/div[@class=&quot;ant-select-dropdown ant-select-dropdown-placement-bottomLeft&quot;]/div[1]/div[@class=&quot;rc-virtual-list&quot;]/div[@class=&quot;rc-virtual-list-scrollbar rc-virtual-list-scrollbar-show&quot;]/div[@class=&quot;rc-virtual-list-scrollbar-thumb&quot;]</value>
+      <webElementGuid>f6fac6d4-c7d0-480c-aed4-f67ac27dde53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/div[2]/div</value>
+      <webElementGuid>1674a561-f53d-4486-81ff-bc90568631f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
